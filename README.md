@@ -86,3 +86,26 @@ Footnotes are informations that accountant think everybody shoud be aware of. Th
 
 Income statement reflect estimates and assumptions.
 Read footnotes carefully
+
+
+### 7 - Revenue - The isssue is recognition
+
+A company can record or recognize a sale when it delivers a product of service to a customer.
+
+#### Merkiy guileline
+
+GAAP guideline regonize sale only when the work have been performed
+
+#### Possibilities for manipulation ()
+
+Earning per share = profit divided by the number of shares outstanding.
+
+Earning recognition is the most used data for manipulation.
+
+#### Backlog and bookings
+
+Backlog refer to no yet recongnized sales (aka oerders that have been signed butnot yet started or not yet reconignized revenue).
+
+#### Deferred revenue
+
+Deferred revenue is when a service is already paid but not delivered. US GAAP expect a service to be delivered to take into account earning. Therfore deferred revenu will appear in balance sheet as liability (money owe to customers, until the service delivered).
