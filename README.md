@@ -92,7 +92,7 @@ Read footnotes carefully
 
 A company can record or recognize a sale when it delivers a product of service to a customer.
 
-#### Merkiy guileline
+#### Murky guileline
 
 GAAP guideline regonize sale only when the work have been performed
 
@@ -104,8 +104,87 @@ Earning recognition is the most used data for manipulation.
 
 #### Backlog and bookings
 
-Backlog refer to no yet recongnized sales (aka oerders that have been signed butnot yet started or not yet reconignized revenue).
+Backlog refer to no yet recongnized sales (aka orders that have been signed but not yet started or not yet reconignized revenue).
 
 #### Deferred revenue
 
 Deferred revenue is when a service is already paid but not delivered. US GAAP expect a service to be delivered to take into account earning. Therfore deferred revenu will appear in balance sheet as liability (money owe to customers, until the service delivered).
+
+### 8 - Costs and expenses - NO hard-and-Fast Rules
+
+#### Cost of goods sold or cost of services
+
+Expenses fall into tow categories:
+- Cost Of Goods Sold (COGS) / Cost of service (COS)
+- Operatiing expenses
+
+```text
+COGS definition:
+Cost of good sold include every expenses made directly involved in producingn a product/ delivering a service.
+```
+
+```text
+Above the line definition:
+The "line" refer to gross profit. Above the line are COGS or COS and below the line are operating expenses, interest, and taxes. Items above the line tned to vary more in the short term.
+```
+
+#### Operating expenses
+
+Operating expenses are cost that are not directly related to making the product. Sales General and administrative expenses (SG&A or just G&A).
+
+Usally includes:
+- rent
+- utilities
+- telephone
+- research
+- marketing
+- management and staff salaries
+- HR
+- accounting
+- IT
+
+#### The power of depreciation and amortization
+
+Deprciation spread an expense for an asset on several time period. Amortization is the same thing for intangible assets. Both are noncash expense.
+
+Items sucha as patents, copyrights and good will are all untangibles assets that appear in the balance sheets.
+
+#### One-time charges : Yellow flag
+
+One time charge that do not fall into COGS or operating expense either. Those epenses appear in the one-time charge line of the income statement.
+
+#### Tracking expenses differently depending on who's looking
+
+Numbers are presented differently depending who will read them. In public GAP income statement the categories may be:
+- Cost of goods sold
+- Selling, general and administrative
+- Other operating charges
+- Interest expenses
+- Income taxes
+
+In the other hand manager would whant to know how much they are spending on:
+- Each ingrediant used to make a beverages, broken down by beverage,
+- all the cost related to dlivering the producst
+- departmental costs, such as accouting, human resources, IT
+- Sales and marketing cost broken down by product, advertising campaign
+
+### 9 - The Many forms of profit
+
+#### Gross profit: how much is enough ?
+
+Gross profit = Revenu - COGS/COS
+
+Gross profit do not include operating expenses.
+
+```text
+Profit is the amout left after expenses are subtracted form revenue. There are three basic types of profit: gross profit, operating profit, and net profit. Each one is determined by subtracting certain categories of expenses form revenue.
+```
+
+#### Operating profit is a key to health ()
+
+Operating profit = Gross profit - operating expenses / SG&A (including depreciation/amortization)
+
+Operating profit is also know as Eearnings before interest and taxes (EBIT)
+
+
+
