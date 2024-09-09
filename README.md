@@ -186,5 +186,26 @@ Operating profit = Gross profit - operating expenses / SG&A (including depreciat
 
 Operating profit is also know as Eearnings before interest and taxes (EBIT)
 
+EBITDA = Gross profit - operating expenses / SG&A (excluding interest, taxes, depreciation/amortization)
+EBITDA is prefered to gauge entreprise financial well being because compagnies used depreciation and one-time charge to manipulate they profits.
 
+#### Net profit and bow to fix it
+
+Net profit is the bottom line of the financial statement. It's the revenue once all costs and exnpenses are subtracted. Expenses can be :
+- cost of goods sold / cost of services
+- operating expenses
+- one-time charges
+- noncash expenses (depreciation / amortization)
+- interest
+- taxes
+
+#### Contribution margin - a different way of lokking at profit
+
+Contribution margin = revenu - variable cost. It show the profit earn on what have been sell without fix expenses directly related to sells.
+
+#### The impoact of exchange rates on profitability ()
+
+#### PROFIT AT NONPROFITS
+
+Nonpfit organization use the same financial statement as for-profit organization. Non profit organization need money to survive, they are also called "nontaxes organizations" because they dont pay taxes.
 
